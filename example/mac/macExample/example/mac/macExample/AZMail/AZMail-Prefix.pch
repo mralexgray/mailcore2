@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AZMail' target in the 'AZMail' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
